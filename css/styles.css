@@ -1,0 +1,32 @@
+img{
+    height: 200px;
+}
+.card{
+    width: 600px;
+    margin-left: 300px;
+    text-align: center;
+    font-weight: 900;
+    padding: auto;
+}
+.card-title{
+    color: rgb(128, 0, 96);
+    font-weight: 900;
+}
+label{
+    color: rgba(35, 61, 232, 0.666);
+}
+input{
+    border: 3px solid rgba(35, 61, 232, 0.404);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.btn-outline-custom{
+    border:  3px solid rgba(35, 61, 232, 0.404);
+    color: rgba(35, 61, 232, 0.664) ;
+    margin-top: 10px;
+}
+.btn-outline-custom:hover{
+    background-color: rgba(35, 61, 232, 0.664) ;
+    border-radius: 10px;
+    color: white;
+}
