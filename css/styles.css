@@ -3,7 +3,7 @@ img{
 }
 .card{
     width: 600px;
-    margin-left: 300px;
+    margin: auto;
     text-align: center;
     font-weight: 900;
     padding: auto;
